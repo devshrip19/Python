@@ -1,0 +1,4 @@
+name = "John smith\n"
+age = 20
+new_patient = True
+print(name,age,new_patient)
