@@ -1,4 +1,4 @@
-name = "John smith\n"
+name = "John Smith\n"
 age = 20
 new_patient = True
 print(name,age,new_patient)
