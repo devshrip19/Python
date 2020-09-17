@@ -1,0 +1,4 @@
+Name = input("enter your name: ")
+Position = input("Whats your position: ")
+return_msg = f'{Name} works as a {Position}'
+print(return_msg)
