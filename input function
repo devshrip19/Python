@@ -1,0 +1,4 @@
+name = input('What is your name? ')
+color = input('Which is your fav color? ')
+reason = input('Why you like it? ')
+print("hey " + name + " you like " + color + " because " + reason)
